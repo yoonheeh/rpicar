@@ -1,0 +1,6 @@
+# Description
+Ultimate objective is to make a code base for autonomously driving small toy car. It consists of three coponents: perception, planning and controls.
+
+# Perception
+Currently perception is planned with x4 ultrasonic sensors and x1 RealSense.
+
